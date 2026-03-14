@@ -1,10 +1,11 @@
 # Infosys_HotelRevAI-AI-Driven-Revenue-Analysis-for-Hotels
-*Project Overview*
+**Project Overview**
+
 The Infosys_HotelRevAI project focuses on analyzing hotel booking data to generate meaningful business insights using Microsoft Power BI. The project transforms raw booking and customer data into interactive dashboards that help hotel management monitor revenue performance, customer behavior, and operational efficiency.
 
 This project demonstrates how business intelligence tools, data visualization, and analytical metrics can support decision-making in the hospitality industry.
 
-*Objectives*
+**Objectives**
 
 The main objectives of this project are:
 
@@ -18,7 +19,7 @@ Build interactive dashboards for business insights
 
 Forecast future revenue trends using data analytics
 
-*Tools and Technologies*
+**Tools and Technologies**
 
 Microsoft Power BI – Data visualization and dashboard development
 
@@ -28,7 +29,7 @@ Power Query – Data transformation and preparation
 
 Excel / Dataset – Hotel booking data source
 
-*Key Dashboards*
+**Key Dashboards**
 1. Hotel Revenue AI (Overview)
 
 Provides a high-level overview of hotel performance.
@@ -101,7 +102,7 @@ Top earning hotel
 
 Expected revenue for next 12 months
 
-*Key Business Metrics*
+**Key Business Metrics**
 
 The project uses several important hotel industry KPIs.
 
@@ -117,7 +118,7 @@ Cancellation Rate – Percentage of cancelled bookings
 
 Average Lead Time – Average time between booking and arrival
 
-*Key Features*
+**Key Features**
 
 Interactive Power BI dashboards
 
@@ -129,7 +130,7 @@ Customer behavior insights
 
 Forecasting and performance benchmarking
 
-*Business Value*
+**Business Value**
 
 The insights generated from this project help hotel management:
 
@@ -143,7 +144,7 @@ Understand customer behavior
 
 Plan future revenue strategies
 
-*Project Structure*
+**Project Structure**
 Infosys_HotelRevAI
 │
 ├── Dataset
@@ -151,7 +152,7 @@ Infosys_HotelRevAI
 ├── Project_Report.pdf
 └── README.md
 
-*Future Improvements*
+**Future Improvements**
 
 Advanced AI-based demand forecasting
 
@@ -159,6 +160,6 @@ Customer segmentation using machine learning
 
 Dynamic pricing optimization models
 
-*Conclusion*
+**Conclusion**
 
 The Hotel Revenue AI project demonstrates how Power BI dashboards, data visualization, and analytics can convert raw hotel booking data into actionable business insights. The project highlights the importance of business intelligence tools in improving decision-making and operational efficiency in the hospitality industry.
